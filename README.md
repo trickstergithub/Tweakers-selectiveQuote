@@ -10,7 +10,7 @@ Selecteer een stuk tekst uit een bericht,
 Druk op Ctrl + Q
 
 
-##Instalatie
+## Instalatie
 
 Include d.m.v bijvoorbeeld Tampermonkey selectiveQuote.js
 
